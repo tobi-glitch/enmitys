@@ -1,29 +1,29 @@
 {
-  "name": "ClearVision",
+  "name": "ClearVision2",
   "version": "1.1",
   "description": "Credits to Zerthox for the better discord theme",
   "authors": [
     {
-      "name": "Madhav",
-      "id": "757530324686340197"
+      "name": "Madhav - Updated image by Oceanic Disturbance",
+      "id": ""
     }
   ],
   "theme_color_map": {
     "KEYBOARD": [
-      "#1a1926",
-      "#FFFFFF"
+      "#3f3985",
+      "#ADD8E6"
     ],
     "HEADER_PRIMARY": [
       "#dfe0e6",
-      "#FFFFFF"
+      "#6f849e"
     ],
     "HEADER_SECONDARY": [
       "#b5b5b5",
       "#FFFFFF"
     ],
     "TEXT_NORMAL": [
-      "#CCCCCC",
-      "#FFFFFF"
+      "#94e4ff",
+      "#94e4ff"
     ],
     "TEXT_MUTED": [
       "#666666",
@@ -152,7 +152,7 @@
     "CHAT_GREY": "#171717"
   },
   "background": {
-    "blur": 0.5,
+    "blur": 0.75,
     "url": "https://clearvision.github.io/images/sapphire.jpg",
     "alpha": 0.6
   }
