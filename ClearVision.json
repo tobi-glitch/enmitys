@@ -19,7 +19,7 @@
     ],
     "HEADER_SECONDARY": [
       "#b5b5b5",
-      "#FFFFFF"
+      "#94e4ff"
     ],
     "TEXT_NORMAL": [
       "#94e4ff",
@@ -135,7 +135,7 @@
     ]
   },
   "colours": {
-    "PRIMARY_DARK": "#171717",
+    "PRIMARY_DARK": "#94e4ff",
     "PRIMARY_DARK_100": "#ffffff",
     "PRIMARY_DARK_200": "#ffffff",
     "PRIMARY_DARK_300": "#B6B6B6",
